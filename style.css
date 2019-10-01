@@ -1,0 +1,15 @@
+.form-div{
+    margin-top: 100px;
+    border: 1px solid rgba(64, 101, 126, 0.664);
+    padding: 30px
+}
+.form-heading{
+    color: red
+}
+#profileDisplay{
+    display: block;
+    border-radius: 50%;
+    margin: 10px auto;
+    height: 60%;
+    width: 60%
+}
